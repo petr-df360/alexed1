@@ -1,0 +1,40 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "FlowActionsBasePack@3.0.0-0"
+                },
+                {
+                    "package": "FlowScreenComponentsBasePack@3.0.6-0"
+                },
+                {
+                    "package": "datatable@4.0.3-0"
+                }
+            ],
+            "package": "SetupViaFlow",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "49.0",
+    "packageAliases": {
+        "FlowBaseComponents1.3.2": "04tf4000004PuQcAAK",
+        "SetupViaFlow": "0Hof4000000XZNBCA4",
+        "SetupViaFlow@1.0.0-0": "04tf4000004PuQhAAK",
+        "FlowActionsBasePack@2.14.0-0": "04t4W00000307e7QAA",
+        "FlowActionsBasePack@2.15.0-0": "04t4W00000307gXQAQ",
+        "FlowActionsBasePack@2.16.0-0": "04t4W00000307grQAA",
+        "FlowScreenComponentsBasePack@2.2.0-0": "04t5G0000047xEdQAI",
+        "datatable@3.0.10-0": "04t5G000004PudhQAC",
+        "SetupViaFlow@1.1.1-0": "04t5G0000047xLoQAI",
+        "FlowActionsBasePack@3.0.0-0": "04t8b000001Eh4YAAS",
+        "FlowScreenComponentsBasePack@3.0.6-0": "04t5G000003rUvVQAU",
+        "datatable@4.0.3-0": "04t5G000003rUvLQAU",
+        "SetupViaFlow@3.0.0-0": "04t5G000003rUyeQAE"
+    }
+}

@@ -1,0 +1,3 @@
+<design:component label="Script Text">
+	<design:attribute name="scriptText" label="Script Text"/>
+</design:component>

@@ -1,0 +1,42 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "FlowScreenComponentsBasePack",
+      "dependencies": [
+        {
+          "package": "FlowActionsBasePack@3.15.0-0"
+        }
+      ]
+    }
+  ],
+  "name": "FlowScreenComponentsBasePack",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "FlowActionsBasePack": "04t4W000002vXUCQA2",
+    "FlowScreenComponentsBasePack": "0Hof4000000XZNGCA4",
+    "FlowScreenComponentsBasePack@2.1.0-0": "04t5G000004PuTgQAK",
+    "FlowActionsBasePack@2.30.0-0": "04t4W0000034Ke2QAE",
+    "FlowActionsBasePack@2.31.1-0": "04t4W0000034KjDQAU",
+    "FlowActionsBasePack@2.32.0-0": "04t4W0000034KebQAE",
+    "FlowActionsBasePack@2.34.0-0": "04t4W00000309DkQAI",
+    "FlowActionsBasePack@2.9.0-0": "04t4W000002vyNKQAY",
+    "FlowActionsBasePack@2.12.0-0": "04t4W000002vyNKQAY",
+    "FlowActionsBasePack@2.20.0-0": "04t4W00000308ACQAY",
+    "FlowActionsBasePack@2.24.0-0": "04t4W00000308DpQAI",
+    "FlowActionsBasePack@2.26.0-0": "04t4W00000308RmQAI",
+    "FlowActionsBasePack@3.15.0-0": "04t8b000001BTgsAAG",
+    "FlowActionsBasePack@2.36.0-0": "04t4W00000309GAQAY",
+    "FlowActionsBasePack@3.0.0-0": "04t8b000001Eh4YAAS",
+    "FlowActionsBasePack@3.10.0-0": "04t8b000000mL0VAAU",
+    "FlowScreenComponentsBasePack@2.1.1-0": "04t5G000004PuV3QAK",
+    "FlowScreenComponentsBasePack@3.0.6-0": "04t5G000003rUvVQAU",
+    "FlowScreenComponentsBasePack@3.0.9-0": "04t5G000003rV0zQAE",
+    "FlowScreenComponentsBasePack@3.0.17": "04t5G0000043xsRQAQ",
+    "FlowScreenComponentsBasePack@3.0.18": "04t5G0000043xsbQAA",
+    "FlowScreenComponentsBasePack@3.0.20": "04t5G000004J7J0QAK"
+  }
+}
